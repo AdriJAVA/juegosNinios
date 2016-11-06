@@ -1,0 +1,23 @@
+.circulo{
+  width: 70px;
+  height: 70px;
+  border-radius: 40px;
+}
+
+.cuadrado{
+  width: 70px;
+  height: 70px;
+}
+
+.elipse{
+  width: 70px;
+  height: 45px;
+  border-radius: 50%;
+}
+
+#formas{
+	background-color: orange;
+	text-align: center;
+	margin-top: 30px;
+}
+

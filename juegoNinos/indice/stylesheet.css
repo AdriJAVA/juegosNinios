@@ -1,0 +1,38 @@
+table{
+  width: 550px;
+}
+a{
+  text-decoration: none;
+  font-size: 30px;
+  background-color: orange;
+  color: black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+
+td{
+  text-align: center;
+  width: 50%;
+  background-color: orange;
+  border: 2px solid black;
+}
+
+footer{
+  text-align: center;
+  margin-bottom: 0px;
+}

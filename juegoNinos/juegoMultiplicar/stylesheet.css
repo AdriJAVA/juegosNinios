@@ -1,0 +1,16 @@
+input[type="text"],input[type="number"]{
+	width: 70px;
+	height: 50px;
+	background-color: white;
+	font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+input[type="submit"]{
+	display: block;
+	margin: 50px auto;;
+	background-color: red;
+	width: 80px;
+	height: 50px;
+}

@@ -1,0 +1,13 @@
+button{
+	margin: 10px;
+}
+
+div{
+	width: 350px;
+	height: 200px;
+	margin: auto;
+	background-color: orange;
+}
+p{
+	text-align: center;
+}
